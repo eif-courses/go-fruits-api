@@ -2,8 +2,6 @@
 
 A simple Fruits REST API built in `golang` using Labstack's [Echo](https://https://echo.labstack.com/]).
 
-- For RDBMS(PostgreSQL,MySQL/MariaDB) demo use the [main](../../tree/main) branch
-- NoSQL(__MongoDB__) please switch to [mongodb](../../tree/mongodb) branch.
 
 ## Pre-requisites
 
